@@ -11,3 +11,8 @@ insert some data in this table
  insert into employee() values('123','Employee1','employee1@gmail.com','root',23,'Male','1234567890','yes','covishiled','no',null,'no','2021-12-05',null),('124','Employee2','employee2@gmail.com','root',21,'Female','1234567890','yes','covaccine','yes','2021-06-21','yes','2021-05-12',null),('125','Employee3','employee3@gmail.com','root',45,'Others','1237654568','no','sputnik','no',null,'no',null,null),('admin','Admin','admin@gmail.com','admin',45,'Male','1234509876','yes','sputnik','no',null,'no','2021-04-13','yes');
  
   
+To login with Admin use: Id: admin and Pass: admin
+To login with user use:
+ Id: 123 and Pass: root
+ Id: 124 and Pass: root
+ Id: 125 and Pass: root
