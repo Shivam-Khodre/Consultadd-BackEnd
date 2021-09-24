@@ -1,6 +1,9 @@
 # Consultadd-BackEnd
 Bank end Project
 
+update file routes/user.js with Mysql username and Password
+
+In MySql:
 create a DataBase with name "simpleangular"
 create a table in this database
 
